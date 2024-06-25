@@ -31,27 +31,27 @@ pip install -r requirements.txt
 
 ## Utilizzo
 
-### Inserimento del Codice ATECO
+###### Inserimento del Codice ATECO
 
 Avvia l'applicazione e inserisci il codice ATECO nel formato XX_X.
 
-### Specifica del Nome del File Excel
+###### Specifica del Nome del File Excel
 
 Specifica il nome del file Excel in cui desideri salvare i dati estratti.
 
-### Estrazione e Salvataggio dei Dati
+###### Estrazione e Salvataggio dei Dati
 
 Premi il pulsante "Estrai dati" per avviare l'estrazione delle informazioni. Durante l'operazione, una barra di avanzamento mostrerà lo stato dell'estrazione.
 
-### Opzioni Avanzate
+###### Opzioni Avanzate
 
 Dopo l'estrazione, i dati saranno salvati in un file Excel con il nome specificato. Puoi anche scegliere di caricare i dati estratti direttamente in un database MySQL, opzione disponibile dopo il salvataggio dei dati in formato CSV.
 
-### Caricamento nel Database
+###### Caricamento nel Database
 
 I dati estratti in formato CSV possono essere caricati in un database MySQL configurato.
 
-## Conclusione
+##### Conclusione
 
 Al termine del processo, riceverai una notifica di successo e avrai la possibilità di chiudere l'applicazione.
 
