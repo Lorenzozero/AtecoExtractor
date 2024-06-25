@@ -24,8 +24,11 @@ pip install -r requirements.txt
 ```
 ## Prerequisiti
 Python 3.x
+
 MySQL Server
+
 Biblioteca requests per Python
+
 ## Utilizzo
 ##### Inserimento del Codice ATECO:
 Avvia l'applicazione e inserisci il codice ATECO nel formato XX_X.
@@ -43,3 +46,8 @@ Questa opzione è disponibile dopo il salvataggio dei dati in formato CSV.
 Dopo il salvataggio in formato CSV, i dati possono essere caricati in un database MySQL configurato.
 #####  Conclusione
 Al termine del processo, l'utente riceverà una notifica di successo e avrà la possibilità di chiudere l'applicazione.
+(https://github.com/Lorenzozero/AtecoExtractor/assets/77022961/dfd8f28a-650c-467f-9e46-1c999c202775)
+(https://github.com/Lorenzozero/AtecoExtractor/assets/77022961/0a178087-802f-435a-864f-0a142d9f9ac6)
+
+
+
