@@ -51,7 +51,7 @@ Dopo l'estrazione, i dati saranno salvati in un file Excel con il nome specifica
 
 I dati estratti in formato CSV possono essere caricati in un database MySQL configurato.
 
-##### Conclusione
+###### Conclusione
 
 Al termine del processo, riceverai una notifica di successo e avrai la possibilità di chiudere l'applicazione.
 
