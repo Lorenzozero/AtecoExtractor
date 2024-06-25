@@ -1,0 +1,4 @@
+openpyxl==3.0.9
+mysql-connector-python==8.0.28
+parsel==1.6.0
+requests==2.26.0
