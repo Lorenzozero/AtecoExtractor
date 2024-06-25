@@ -55,8 +55,11 @@ I dati estratti in formato CSV possono essere caricati in un database MySQL conf
 
 Al termine del processo, riceverai una notifica di successo e avrai la possibilità di chiudere l'applicazione.
 
+
+### interfaccia utente
 ![Screenshot 1](https://github.com/Lorenzozero/AtecoExtractor/assets/77022961/dfd8f28a-650c-467f-9e46-1c999c202775)
 
+### risultati 
 ![Screenshot 2](https://github.com/Lorenzozero/AtecoExtractor/assets/77022961/7dfd7e9c-f030-438c-978d-7ab3aa705e16)
 
 
